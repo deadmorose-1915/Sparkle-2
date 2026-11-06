@@ -197,3 +197,6 @@ This repository serves as the official landing page for Sparkle 2. The software 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Sparkle 2 today!**
+
+---
+**Last updated:** 2026-11-06 20:21:00 UTC
