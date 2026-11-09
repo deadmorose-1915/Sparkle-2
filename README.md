@@ -199,4 +199,4 @@ This repository serves as the official landing page for Sparkle 2. The software 
 **Get the most recent version of Sparkle 2 today!**
 
 ---
-**Last updated:** 2026-11-09 09:34:51 UTC
+**Last updated:** 2026-11-09 20:37:12 UTC
